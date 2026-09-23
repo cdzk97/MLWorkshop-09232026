@@ -30,3 +30,13 @@ BFGSLineSearch:    5[  5] 23:05:23        0.036441       0.1090
 BFGSLineSearch:    6[  6] 23:05:23        0.002594       0.0628
 BFGSLineSearch:    7[  7] 23:05:23       -0.007350       0.0527
 BFGSLineSearch:    8[  8] 23:05:23       -0.011832       0.0312
+                Step[ FC]     Time          Energy          fmax
+BFGSLineSearch:    0[  0] 09:20:08       14.894293       8.3459
+BFGSLineSearch:    1[  1] 09:20:08        5.372043       1.8596
+BFGSLineSearch:    2[  2] 09:20:09        1.779235       3.8814
+BFGSLineSearch:    3[  3] 09:20:09        0.344974       0.5983
+BFGSLineSearch:    4[  4] 09:20:09        0.107853       0.2303
+BFGSLineSearch:    5[  5] 09:20:09        0.036441       0.1090
+BFGSLineSearch:    6[  6] 09:20:09        0.002594       0.0628
+BFGSLineSearch:    7[  7] 09:20:09       -0.007350       0.0527
+BFGSLineSearch:    8[  8] 09:20:09       -0.011832       0.0312
